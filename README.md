@@ -1,5 +1,4 @@
-
-# E-Commerce Analysis Dashboard
+# E-Commerce Analysis 
 
 This project is an interactive Power BI dashboard that analyzes key metrics for an e-commerce dataset. 
 The analysis focuses on product performance, customer behavior, and order trends, with the goal of helping business leaders make data-driven decisions.
