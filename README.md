@@ -30,3 +30,6 @@ An interactive Power BI dashboard that helps e-commerce managers:
 - Track sales trends and product performance  
 - Identify top-performing regions and customers  
 - Make informed decisions about inventory, marketing, and promotions  
+
+##  Dashboard Preview
+![E-Commerce Dashboard](Dashboards/Home.png)
