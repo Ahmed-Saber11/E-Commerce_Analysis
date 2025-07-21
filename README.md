@@ -32,7 +32,7 @@ An interactive Power BI dashboard that helps e-commerce managers:
 - Make informed decisions about inventory, marketing, and promotions  
 
 ##  Dashboard Preview
-![E-Commerce Dashboard](#Dashboards/Home.png)
+![Home](#Dashboards/Home.png)
 
 ![E-Commerce Dashboard](#Dashboards/Orders.png)
 
