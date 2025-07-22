@@ -34,7 +34,10 @@ An interactive Power BI dashboard that helps e-commerce managers:
  ## 📊 Dashboard Preview
 
 ![Home Dashboard](Dashboards/Home.png)
+
 ![Orders Dashboard](Dashboards/Orders.png)
+
 ![Products Dashboard](Dashboards/Products.png)
+
 ![Customers Dashboard](Dashboards/Customers.png)
 
